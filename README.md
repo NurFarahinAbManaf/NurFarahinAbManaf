@@ -1,4 +1,12 @@
 ## Hi there 👋
+## Farahin's here but can call me Farah 👩‍💻
+## I'm currently learning and exploring new skill and knowledge related to Data Science and Data Analyst 🔍
+## Feel free to have a peek on the projects done by me. Buzz me if have suggestion and comments regarding my work.
+## <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</p>
 
 <!--
 **NurFarahinAbManaf/NurFarahinAbManaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+##🌱 I’m currently learning...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
